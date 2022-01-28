@@ -1,0 +1,20 @@
+.themessage{
+    color: black;
+    font-family: quicksand;
+}
+
+.themessage > b{
+    color: #E37373;
+}
+
+a{
+    color: #E37373;
+    text-decoration: none;
+    
+}
+
+a:hover{
+    text-decoration: underline;
+    text-decoration-color:#E37373; 
+}
+
